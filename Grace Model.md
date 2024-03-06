@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error
 
 ```python
 
-excel_file_path = 'C:/Users/Martin Omollo/Downloads/Makert Prices 2022.xlsx'
+excel_file_path = 'C:/Users/Grace Maithy/Downloads/Makert Prices 2022.xlsx'
 
 # Loading data from Excel file into a Pandas DataFrame
 df = pd.read_excel(excel_file_path)
